@@ -1,6 +1,6 @@
 # Machine Learning na Contabilidade: Classificação Automática de Lançamentos
 
-Este repositório apresenta um caso de estudo prático sobre a aplicação de Inteligência Artificial para otimizar processos em escritórios de contabilidade, utilizando a linguagem **Python**. Na minha pós-graduação, estou cursando a matéria de Inteligência Artificial aplicada à otimização contábil, que é apenas uma das muitas aplicações da IA na área.
+Este repositório apresenta um caso de estudo prático sobre a aplicação de Inteligência Artificial para otimizar processos em escritórios de contabilidade, utilizando a linguagem **Python**. Na minha pós-graduação, estou cursando a matéria de Inteligência Artificial aplicada à otimização contábil, e essa é apenas uma das muitas aplicações da IA na área.
 
 ## 📌 O Problema
 Escritórios de contabilidade lidam com grandes volumes de extratos bancários e notas fiscais. A classificação manual de cada lançamento em contas contábeis (ex: Luz, Aluguel, Internet) é uma tarefa repetitiva, lenta e sujeita a erros operacionais.

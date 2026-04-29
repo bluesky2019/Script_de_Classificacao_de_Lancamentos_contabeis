@@ -13,6 +13,7 @@ Desenvolvimento de um modelo de **Processamento de Linguagem Natural (NLP)** e *
 * **Pandas**: Manipulação de dados.
 * **Scikit-Learn**: Criação do Pipeline de ML, vetorização de texto e algoritmo *Random Forest*.
 
+
 ## 🛠️ Como Funciona
 O script utiliza um `Pipeline` que combina duas etapas principais:
 1.  **CountVectorizer**: Transforma as descrições dos lançamentos (texto) em vetores numéricos.
@@ -20,6 +21,8 @@ O script utiliza um `Pipeline` que combina duas etapas principais:
 
 ## 📊 Exemplo de Resultado
 Ao receber uma descrição como `"PGTO INTERNET VIVO"`, o modelo identifica o padrão e sugere a conta: `Telecomunicações`.
+
+![Demonstração do Script](Print_do_Resultado.png)
 
 ## 📈 Próximos Passos (Roadmap)
 - [ ] Implementar detecção de anomalias para auditoria digital.

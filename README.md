@@ -28,3 +28,13 @@ Ao receber uma descrição como `"PGTO INTERNET VIVO"`, o modelo identifica o pa
 - [ ] Implementar detecção de anomalias para auditoria digital.
 - [ ] Criar uma interface simples (Streamlit) para upload de arquivos Excel/CSV.
 - [ ] Integrar com APIs de bancos para leitura de extratos em tempo real.
+
+<img width="1408" height="768" alt="executing-projects" src="https://github.com/user-attachments/assets/d26be9db-7c9f-4671-986d-297b3522db6a" />
+
+## 🔗 Conecte-se
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@gilnei809/gilnei-azambuja-borges-analista-de-dados-e-administrador-de-banco-de-dados-8774175b0e46)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilnei-azambuja-borges-1a83432b)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/bluesky2019)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gilneiborges)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=FW4VNKJWXLTCJ)
